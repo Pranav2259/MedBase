@@ -7,10 +7,7 @@ A patient details storing app that takes input in an interactive window and save
   
 -> 2022
   After trying my hands on JavaFX, converted the old project into a UI based project.
-  
 
-![image](https://github.com/daryl-micah/MedBase/assets/80580135/3d2909b4-91f8-4b64-bf84-06cdc24ce3f9)
+![Medspace_UI](https://github.com/Pranav2259/MedBase/assets/85480256/4d75df24-9aab-4f3e-b16a-109d345557ac)
 
-
-![image](https://github.com/daryl-micah/MedBase/assets/80580135/5ad0172c-612a-47d6-8837-26d3f6020c0f)
-
+![csvfile](https://github.com/Pranav2259/MedBase/assets/85480256/288a51bf-a639-4c37-b8f6-5cd572ac1ecf)
